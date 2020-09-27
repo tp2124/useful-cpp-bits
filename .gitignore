@@ -1,3 +1,8 @@
+# Output
+Debug/
+Release/
+v16/
+
 # Prerequisites
 *.d
 
@@ -30,3 +35,6 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/*
